@@ -84,4 +84,4 @@ Bu altyapıyı geliştirmek isterseniz pull request (PR) göndermekten çekinmey
 
 ## 📄 Lisans
 
-Bu proje [ISC Lisansı](LICENSE) ile lisanslanmıştır. Dilediğiniz gibi kullanabilir ve değiştirebilirsiniz.
+Bu proje [MIT Lisansı] ile lisanslanmıştır. Dilediğiniz gibi kullanabilir ve değiştirebilirsiniz.
