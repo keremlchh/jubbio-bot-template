@@ -14,7 +14,7 @@ Jubbio platformu için TypeScript ve `@jubbio/core` kütüphanesi kullanılarak 
 ### 1. Projeyi Klonlayın
 
 ```bash
-git clone https://github.com/KULLANICI_ADINIZ/jubbio-bot-template.git
+git clone https://github.com/keremlchh/jubbio-bot-template.git
 cd jubbio-bot-template
 ```
 
